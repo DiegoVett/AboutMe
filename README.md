@@ -36,3 +36,5 @@
 
 <a href="shoppingcentre22.wordpress.com">Wordpress site (no plugins)</a>
 
+in case the link dont work, cpy and paste this: https://shoppingcentre22.wordpress.com/
+
